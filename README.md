@@ -3,7 +3,7 @@
 <h3 align="center">I'm a professional frontend developer from bangladesh</h3>
  <!-- ────────────── Banner ────────────── -->
 <p align="center ">
-  <img src="https://github.com/muazalmuttaki/muazalmuttaki/blob/main/Gemini_Generated_Image_fozwbnfozwbnfozw.png" width="800" height="200" />
+  <img src="https://github.com/muazalmuttaki/muazalmuttaki/blob/main/(6).png" />
 </p>
 <h3 align="center">🚀 Frontend Web Developer | JavaScript | React & Next.js</h3>
 <!-- ────────────── About Me ────────────── -->
