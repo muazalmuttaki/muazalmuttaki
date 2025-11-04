@@ -37,6 +37,10 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 <!-- ────────────── Social Links ────────────── -->
  <h3 align="center">🌐 Connect With Me</h3>
  <p align="center">
+  <a href="https://www.facebook.com/muazalmuttaki" target="_blank">
+  <img src="./assets/facebook.png" width="40" style="margin: 0 10px;" alt="Facebook"/>
+</a>
+
   <a href="https://github.com/muazalmuttaki" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" style="margin: 0 10px;" />
   </a>
