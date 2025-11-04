@@ -17,25 +17,25 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 - 📚 Exploring backend fundamentals
 - ⚙ Improving API integration skills
 <!-- ────────────── Skills ────────────── -->
-### 🧠 Skills & Technologies
-#### 🎨 Frontend
+ <h3>🧠 Skills & Technologies</h3> 
+ <h4>🎨 Frontend</h4> 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-#### 🛠 Backend
+<h3> 🛠 Backend</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-#### 🔧 Tools & DevOps
+ <h4>🔧 Tools & DevOps</h4>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 </p>
 
 ---
 <!-- ────────────── Social Links ────────────── -->
-### 🌐 Connect With Me
+ <h3 align="center">🌐 Connect With Me</h3>
  <p align="center">
   <a href="https://github.com/muazalmuttaki" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" style="margin: 0 10px;" />
@@ -56,11 +56,9 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 ---
 
 <!-- ────────────── GitHub Stats ────────────── -->
-### 📊 GitHub Stats
+ <h3 align="center">📊 GitHub Stats</h3> 
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" />
-</p>
+ 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
