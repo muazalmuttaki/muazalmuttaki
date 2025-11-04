@@ -17,18 +17,18 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 - 📚 Exploring backend fundamentals
 - ⚙ Improving API integration skills
 <!-- ────────────── Skills ────────────── -->
- <h3>🧠 Skills & Technologies</h3> 
- <h4>🎨 Frontend</h4> 
+ <h3 align="center">🧠 Skills & Technologies</h3> 
+ <h4 align="center">🎨 Frontend</h4> 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-<h3> 🛠 Backend</h3>
+<h3 align="center"> 🛠 Backend</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
- <h4>🔧 Tools & DevOps</h4>
+ <h4 align="center">🔧 Tools & DevOps</h4>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 </p>
@@ -50,6 +50,7 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" style="margin: 0 10px;" />
   </a>
 </p>
+
 
 
 
