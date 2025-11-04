@@ -35,7 +35,6 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 </p>
 
 ---
-
 <!-- ────────────── Social Links ────────────── -->
 ### 🌐 Connect With Me
 
