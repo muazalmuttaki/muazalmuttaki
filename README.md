@@ -19,17 +19,17 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 <!-- ────────────── Skills ────────────── -->
 ### 🧠 Skills & Technologies
 #### 🎨 Frontend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
 #### 🛠 Backend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 #### 🔧 Tools & DevOps
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 </p>
 
