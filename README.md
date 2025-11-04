@@ -2,11 +2,9 @@
 <h2 align="center">  Welcome to my GitHub profile.👋, </h2>
 <h3 align="center">I'm a professional frontend developer from bangladesh</h3>
  <!-- ────────────── Banner ────────────── -->
-<p align="center">
-  <img src="https://github.com/muazalmuttaki/muazalmuttaki/blob/main/Gemini_Generated_Image_fozwbnfozwbnfozw.png" />
+<p align="center ">
+  <img src="https://github.com/muazalmuttaki/muazalmuttaki/blob/main/Gemini_Generated_Image_fozwbnfozwbnfozw.png" width="800" height="200" />
 </p>
-
- 
 <h3 align="center">🚀 Frontend Web Developer | JavaScript | React & Next.js</h3>
 <!-- ────────────── About Me ────────────── -->
 ##🧑‍💻 About Me
@@ -19,10 +17,8 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 - 🌍 Building a travel-related website project
 - 📚 Exploring backend fundamentals
 - ⚙ Improving API integration skills
-
 <!-- ────────────── Skills ────────────── -->
 ### 🧠 Skills & Technologies
-
 #### 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
@@ -66,13 +62,13 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 
 ---
 
-<!-- ────────────── Snake Contributions ────────────── -->
+<!-- ────────────── Snake Contributions ────────────── 
 ### 🐍 Contribution Graph
 <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-
+-->
 ---
 
-### ✅ Featured (Pinned) Projects
+<!--### ✅ Featured (Pinned) Projects
 
 <p align="center">
 <a href="https://github.com/yourusername/project1">
