@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! I'm muaz al muttaki👋</h1> 
 <h2 align="center">  Welcome to my GitHub profile.👋, </h2>
 <h3 align="center">I'm a professional frontend developer from bangladesh</h3>
-
  <!-- ────────────── Banner ────────────── -->
 <p align="center">
   <img src="https://i.ibb.co/9q3cJTM/banner.png" alt="Banner" />
@@ -9,14 +8,11 @@
 
 <h1 align="center">Hi there 👋, I'm YOUR FULL NAME</h1>
 <h3 align="center">🚀 Frontend Web Developer | JavaScript | React & Next.js</h3>
-
-
 <!-- ────────────── About Me ────────────── -->
 ### 🧑‍💻 About Me
 I'm a passionate frontend developer focused on building clean, user-friendly, and modern web applications.  
 I love exploring new technologies, improving UI/UX, and continuously learning to grow better every day.  
 My goal is to become a skillful full-stack developer and contribute to meaningful open-source projects.
-
 <!-- ────────────── Current Activities ────────────── -->
 ### 🔥 Currently Working On
 - 🧩 Learning **Next.js**
