@@ -17,10 +17,10 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 - 📚 Exploring backend fundamentals
 - ⚙ Improving API integration skills
 <!-- ────────────── Skills ────────────── -->
+<div align="center">
  
 <h1 align="center">💻 My Skills</h1>
 
-<div align="center">
 
 <table>
 <tr>
