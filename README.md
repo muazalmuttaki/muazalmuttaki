@@ -17,100 +17,81 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 - 📚 Exploring backend fundamentals
 - ⚙ Improving API integration skills
 <!-- ────────────── Skills ────────────── -->
-## 💻 My Skills
-
-<div align="center">
+ 
+<h1 align="center">💻 My Skills</h1>
+<div align="center" gap="3" >
 
 <table>
 <tr>
-<td align="center" width="140">
+<td align="center" width="160" height="140">
   
-### HTML  
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
-  
-**Expert**
-<br>
-███████████░░░░
-  
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br>
+<b>HTML</b><br>
+<span style="color:orange">⭐ Expert</span><br>
+<img src="https://progress-bar.dev/100/?width=90">
 </td>
-<td align="center" width="140">
+
+<td align="center" width="160" height="140">
   
-### CSS  
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-  
-**Expert**
-<br>
-███████████░░░░
-  
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br>
+<b>CSS</b><br>
+<span style="color:lightblue">⭐ Expert</span><br>
+<img src="https://progress-bar.dev/100/?width=90">
 </td>
-<td align="center" width="140">
+
+<td align="center" width="160" height="140">
   
-### JavaScript  
-<img src="https://skillicons.dev/icons?i=js" width="50"/>
-  
-**Advanced**
-<br>
-████████░░░░░░
-  
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br>
+<b>JavaScript</b><br>
+<span style="color:yellow">⭐ Advanced</span><br>
+<img src="https://progress-bar.dev/80/?width=90">
 </td>
-<td align="center" width="140">
+
+<td align="center" width="160" height="140">
   
-### React  
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-  
-**Advanced**
-<br>
-████████░░░░░░
-  
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br>
+<b>React</b><br>
+<span style="color:cyan">⭐ Advanced</span><br>
+<img src="https://progress-bar.dev/80/?width=90">
 </td>
 </tr>
 
 <tr>
-<td align="center" width="140">
+<td align="center" width="160" height="140">
   
-### Next.js  
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-  
-**Intermediate**
-<br>
-██████░░░░░░░░
-  
+<img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>
+<b>Next.js</b><br>
+<span style="color:white">⭐ Intermediate</span><br>
+<img src="https://progress-bar.dev/60/?width=90">
 </td>
-<td align="center" width="140">
+
+<td align="center" width="160" height="140">
   
-### TypeScript  
-<img src="https://skillicons.dev/icons?i=ts" width="50"/>
-  
-**Intermediate**
-<br>
-██████░░░░░░░░
-  
+<img src="https://skillicons.dev/icons?i=ts" width="45"/><br>
+<b>TypeScript</b><br>
+<span style="color:#007bff">⭐ Intermediate</span><br>
+<img src="https://progress-bar.dev/60/?width=90">
 </td>
-<td align="center" width="140">
+
+<td align="center" width="160" height="140">
   
-### TailwindCSS  
-<img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
-  
-**Advanced**
-<br>
-████████░░░░░░
-  
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
+<b>Tailwind CSS</b><br>
+<span style="color:teal">⭐ Advanced</span><br>
+<img src="https://progress-bar.dev/80/?width=90">
 </td>
-<td align="center" width="140">
+
+<td align="center" width="160" height="140">
   
-### Node.js  
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-  
-**Intermediate**
-<br>
-██████░░░░░░░░
-  
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>
+<b>Node.js</b><br>
+<span style="color:lightgreen">⭐ Intermediate</span><br>
+<img src="https://progress-bar.dev/60/?width=90">
 </td>
 </tr>
 </table>
+
 </div>
-
-
  
 
 
@@ -125,9 +106,7 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
 </p>
 <!--
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
-</p>
+ 
 -->
  
 
