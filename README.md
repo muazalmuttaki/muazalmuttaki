@@ -19,81 +19,79 @@ My goal is to become a skillful full-stack developer and contribute to meaningfu
 <!-- ────────────── Skills ────────────── -->
  
 <h1 align="center">💻 My Skills</h1>
-<div align="center" gap="3" >
+<div align="center">
 
-<table>
+<table cellpadding="12">
 <tr>
-<td align="center" width="160" height="140">
+<td align="center" width="160">
   
-<img src="https://skillicons.dev/icons?i=html" width="45"/><br>
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
 <b>HTML</b><br>
-<span style="color:orange">⭐ Expert</span><br>
-<img src="https://progress-bar.dev/100/?width=90">
+<span style="color:orange">⭐ Expert</span><br><br>
+<img src="https://progress-bar.dev/100/?width=100">
 </td>
 
-<td align="center" width="160" height="140">
+<td align="center" width="160">
   
-<img src="https://skillicons.dev/icons?i=css" width="45"/><br>
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
 <b>CSS</b><br>
-<span style="color:lightblue">⭐ Expert</span><br>
-<img src="https://progress-bar.dev/100/?width=90">
+<span style="color:#61dafb">⭐ Expert</span><br><br>
+<img src="https://progress-bar.dev/100/?width=100">
 </td>
 
-<td align="center" width="160" height="140">
+<td align="center" width="160">
   
-<img src="https://skillicons.dev/icons?i=js" width="45"/><br>
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
 <b>JavaScript</b><br>
-<span style="color:yellow">⭐ Advanced</span><br>
-<img src="https://progress-bar.dev/80/?width=90">
+<span style="color:yellow">⭐ Advanced</span><br><br>
+<img src="https://progress-bar.dev/80/?width=100">
 </td>
 
-<td align="center" width="160" height="140">
+<td align="center" width="160">
   
-<img src="https://skillicons.dev/icons?i=react" width="45"/><br>
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
 <b>React</b><br>
-<span style="color:cyan">⭐ Advanced</span><br>
-<img src="https://progress-bar.dev/80/?width=90">
+<span style="color:cyan">⭐ Advanced</span><br><br>
+<img src="https://progress-bar.dev/80/?width=100">
 </td>
 </tr>
 
 <tr>
-<td align="center" width="160" height="140">
+<td align="center" width="160">
   
-<img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>
 <b>Next.js</b><br>
-<span style="color:white">⭐ Intermediate</span><br>
-<img src="https://progress-bar.dev/60/?width=90">
+<span style="color:white">⭐ Intermediate</span><br><br>
+<img src="https://progress-bar.dev/60/?width=100">
 </td>
 
-<td align="center" width="160" height="140">
+<td align="center" width="160">
   
-<img src="https://skillicons.dev/icons?i=ts" width="45"/><br>
+<img src="https://skillicons.dev/icons?i=ts" width="50"/><br>
 <b>TypeScript</b><br>
-<span style="color:#007bff">⭐ Intermediate</span><br>
-<img src="https://progress-bar.dev/60/?width=90">
+<span style="color:#007bff">⭐ Intermediate</span><br><br>
+<img src="https://progress-bar.dev/60/?width=100">
 </td>
 
-<td align="center" width="160" height="140">
+<td align="center" width="160">
   
-<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>
 <b>Tailwind CSS</b><br>
-<span style="color:teal">⭐ Advanced</span><br>
-<img src="https://progress-bar.dev/80/?width=90">
+<span style="color:teal">⭐ Advanced</span><br><br>
+<img src="https://progress-bar.dev/80/?width=100">
 </td>
 
-<td align="center" width="160" height="140">
+<td align="center" width="160">
   
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
 <b>Node.js</b><br>
-<span style="color:lightgreen">⭐ Intermediate</span><br>
-<img src="https://progress-bar.dev/60/?width=90">
+<span style="color:lightgreen">⭐ Intermediate</span><br><br>
+<img src="https://progress-bar.dev/60/?width=100">
 </td>
 </tr>
 </table>
 
 </div>
- 
-
 
  
 
